@@ -1,0 +1,26 @@
+{
+  "name": "jd-carousel",
+  "version": "1.0.0",
+  "description": "🎡 Round and round it goes, and JD loves it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-dorian/carousel.git"
+  },
+  "keywords": [
+    "js",
+    "carousel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-dorian/carousel/issues"
+  },
+  "homepage": "https://github.com/john-dorian/carousel#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0"
+  }
+}
